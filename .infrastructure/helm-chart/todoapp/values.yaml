@@ -12,11 +12,11 @@ secrets:
 
 resources:
   requests:
-    memory: 256Mi
-    cpu: "150m"
+    memory: 512Mi
+    cpu: "200m"
   limits:
-    memory: "256Mi"
-    cpu: "150m"
+    memory: "512Mi"
+    cpu: "200m"
 
 rollingUpdate:
   maxSurge: 1
