@@ -41,3 +41,4 @@ pv:
 pvc:
   requests:
     storage: 1Gi
+
